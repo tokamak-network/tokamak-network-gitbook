@@ -15,7 +15,7 @@
 
     Please use this command to get the chain info : `trh-sdk info`
 3. **I deleted it after deploying it with the name 'alpha'. When I try to redeploy it with the same name after deleting it, I get an resource duplicated error.**\
-   Solution: \
+   **Solution:** \
    Now It is not possible to redeploy with the same name, so use a unique identifier for the chain name. (It will be resolved soon.)
 
 If you need further assistance, feel free to contact us via the [support form ](https://docs.google.com/forms/d/e/1FAIpQLSc6pHHABsnIZ2MvcEa57VCtSNTRXHAaFjBLQYf1LbiMB_81OA/viewform)or [Discord](https://discord.gg/J5jC9gJpYb).

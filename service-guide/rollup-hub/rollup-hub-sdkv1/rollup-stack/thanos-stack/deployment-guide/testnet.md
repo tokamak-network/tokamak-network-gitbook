@@ -7,7 +7,7 @@ description: Testnet Deployment Instructions
 {% hint style="info" %}
 **Important Links:**
 
-1. **Operation guide:**&#x20;
+1. Operation guid&#x65;**:** [https://docs.tokamak.network/home/service-guide/rollup-hub/rollup-hub-sdkv1/rollup-stack/thanos-stack/operation-guide/testnet](https://docs.tokamak.network/home/service-guide/rollup-hub/rollup-hub-sdkv1/rollup-stack/thanos-stack/operation-guide/testnet)
 2. Quicknode : [https://www.quicknode.com/](https://www.quicknode.com/)
 3. Alchemy : [https://www.alchemy.com/](https://www.alchemy.com/)
 4. Chainlist : [https://chainlist.org/?testnets=true](https://chainlist.org/?testnets=true)
