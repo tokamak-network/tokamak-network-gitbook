@@ -54,7 +54,7 @@ Container ops-bedrock-op-proposer-1  Started
 
 <figure><img src="../../../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Docker Containers</p></figcaption></figure>
 
-> ℹ️ Once the Devnet is deployed, you can manage and operate it using this guide. [devnet.md](../operation-guide/devnet.md "mention")
+> ℹ️ Once the Devnet is deployed, you can manage and operate it using this guide ([link](../operation-guide/devnet.md)).
 
 5. You can run the following commands in deployment folder to **destroy** the devnet.
 

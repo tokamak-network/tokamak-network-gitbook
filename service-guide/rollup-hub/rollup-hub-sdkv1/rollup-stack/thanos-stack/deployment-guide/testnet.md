@@ -7,7 +7,7 @@ description: Testnet Deployment Instructions
 {% hint style="info" %}
 **Important Links:**
 
-1. Operation guid&#x65;**:** [https://docs.tokamak.network/home/service-guide/rollup-hub/rollup-hub-sdkv1/rollup-stack/thanos-stack/operation-guide/testnet](https://docs.tokamak.network/home/service-guide/rollup-hub/rollup-hub-sdkv1/rollup-stack/thanos-stack/operation-guide/testnet)
+1. Operation guid&#x65;**:** [link](../operation-guide/testnet.md)
 2. Quicknode : [https://www.quicknode.com/](https://www.quicknode.com/)
 3. Alchemy : [https://www.alchemy.com/](https://www.alchemy.com/)
 4. Chainlist : [https://chainlist.org/?testnets=true](https://chainlist.org/?testnets=true)
@@ -197,7 +197,7 @@ trh-sdk deploy
 2. Upon executing the deploy command, you will receive the following prompts from the SDK. You should be able to answer them easily using the information from your prerequisite preparation.
 
 {% hint style="info" %}
-Hint: Use unique identifiers in **chain name** since redeployment with same name is impossible.
+Hint: Use unique identifiers in **chain name** since now redeployment with same name is impossible.
 {% endhint %}
 
 ```bash
@@ -235,7 +235,7 @@ The L2 endpoint can be checked by the `l2_rpc_url` field value in `settings.json
 
 4.  Double check if the chain is deployed and running properly following this [guide](https://www.notion.so/Double-check-the-status-of-the-L2-chain-1f2d96a400a38068a101e720d5f8be36?pvs=21).
 
-    > ℹ️ After you deploy the L2 testnet successfully, you can operate it by following this guide [testnet.md](../operation-guide/testnet.md "mention")
+    > ℹ️ After you deploy the L2 testnet successfully, you can operate it by following this guide ([link](../operation-guide/testnet.md))
 5. With the stack and bridge configured, proceed to the Integrations section to add any desired components to your chain.
 
 ## Destroy the stack

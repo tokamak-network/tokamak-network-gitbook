@@ -5,10 +5,10 @@ description: 'Tokamak Rollup Hub: A Tailor-Made L2 Rollup Solution for Developer
 # Rollup Hub
 
 {% hint style="info" %}
-Service URL
+**Service URL**
 
-* Website: [https://rolluphub.tokamak.network/](https://rolluphub.tokamak.network/)
-* Github: [https://github.com/orgs/tokamak-network/teams/project\_trh/repositories](https://github.com/orgs/tokamak-network/teams/project_trh/repositories)
+* Tokamak Rollup Hub :  [https://rolluphub.tokamak.network/](https://rolluphub.tokamak.network/)
+* Github : [https://github.com/tokamak-network/trh-sdk](https://github.com/tokamak-network/trh-sdk)&#x20;
 * Discord channel: [https://discord.gg/J5jC9gJpYb](https://discord.gg/J5jC9gJpYb)
 {% endhint %}
 

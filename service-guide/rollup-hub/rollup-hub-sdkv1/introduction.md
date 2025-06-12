@@ -6,14 +6,6 @@ description: >-
 
 # Introduction
 
-{% hint style="info" %}
-Service URL
-
-* Tokamak Rollup Hub :  [https://rolluphub.tokamak.network/](https://rolluphub.tokamak.network/)
-* Github : [https://github.com/tokamak-network/trh-sdk](https://github.com/tokamak-network/trh-sdk)&#x20;
-* Discord channel: [https://discord.gg/J5jC9gJpYb](https://discord.gg/J5jC9gJpYb)
-{% endhint %}
-
 The **Tokamak Rollup Hub** is an on-demand Layer 2 infrastructure platform designed to enable seamless deployment and end-to-end lifecycle management of Appchains. SDKv1 marks the first step in realizing this vision.\
 
 
