@@ -55,7 +55,7 @@ To ensure proper operation, the nodes must be started in the order specified in 
 
     ```
 
-    <figure><img src="../../../../../.gitbook/assets/Screenshot from 2024-12-19 22-20-54.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../../.gitbook/assets/Screenshot from 2024-12-19 22-20-54.png" alt=""><figcaption></figcaption></figure>
 *   Shut down the node
 
     * Using archive mode can help reduce data loss in case shutting down unexpectedly. However, the op-geth needs to be stopped gracefully by sending a `SIGINT` signal to the op-geth process.
@@ -105,7 +105,7 @@ To ensure proper operation, the nodes must be started in the order specified in 
     	--l1.trustrpc
     ```
 
-    <figure><img src="../../../../../.gitbook/assets/Screenshot from 2024-12-19 22-25-38.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../../.gitbook/assets/Screenshot from 2024-12-19 22-25-38.png" alt=""><figcaption></figcaption></figure>
 *   Shut down the node
 
     The op-node process is stateless, allowing it to be terminated using any method without risk of data loss.
@@ -130,7 +130,7 @@ To ensure proper operation, the nodes must be started in the order specified in 
      --private-key=<private key for singing proposal transactions>
     ```
 
-    <figure><img src="../../../../../.gitbook/assets/Screenshot from 2024-12-19 23-25-51.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../../.gitbook/assets/Screenshot from 2024-12-19 23-25-51.png" alt=""><figcaption></figcaption></figure>
 * Shut down the node
   * The node process can be terminated using any method, as it does not require a specific shutdown procedure.
 
@@ -155,7 +155,7 @@ To ensure proper operation, the nodes must be started in the order specified in 
       --private-key=<private key for singing transactions>
     ```
 
-    <figure><img src="../../../../../.gitbook/assets/Screenshot from 2024-12-19 23-12-24.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../../.gitbook/assets/Screenshot from 2024-12-19 23-12-24.png" alt=""><figcaption></figcaption></figure>
 *   Shut down the node
 
     * We need to send this command first to the op-batcher process to stop the process gracefully.
@@ -167,7 +167,7 @@ To ensure proper operation, the nodes must be started in the order specified in 
 
     * Wait until the Batcher service **stops** then terminate the process:
 
-    <figure><img src="../../../../../.gitbook/assets/Screenshot from 2024-12-19 23-30-16.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../../.gitbook/assets/Screenshot from 2024-12-19 23-30-16.png" alt=""><figcaption></figcaption></figure>
 
 ### op-challenger
 
@@ -189,7 +189,7 @@ op-challenger \
 	--private-key=<private key for signing process>
 ```
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot from 2024-12-19 23-32-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/Screenshot from 2024-12-19 23-32-02.png" alt=""><figcaption></figcaption></figure>
 
 *   Shut down the node
 

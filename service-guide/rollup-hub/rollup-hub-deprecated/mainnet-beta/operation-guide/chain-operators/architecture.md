@@ -10,7 +10,7 @@ The Thanos Stack comprises the following fundamental modules: op-node, op-propos
 
 The diagram below illustrates how the core components: op-node, op-proposer, op-geth, op-batcher interact:
 
-<figure><img src="../../../../../.gitbook/assets/image.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image.webp" alt=""><figcaption></figcaption></figure>
 
 ### Components
 

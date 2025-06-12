@@ -62,36 +62,36 @@ Terraform is used to set up an AWS-based infrastructure to deploy the Thanos cha
 
 1. In the IAM console, navigate to `Users` and click `Create User`.
 
-<figure><img src="../../../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 2. Enter the User name and click the `Next` button.
 
-<figure><img src="../../../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 3. To select the `Attach policies directly` option and proceed with the deployment, you need most of the permissions for AWS resources, so select `AdministratorAccess`.
 
-<figure><img src="../../../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 4. Click the `Next` button, then click the `Create user` button to create the user.
 5. On the user screen, click on the newly created user.
 
-<figure><img src="../../../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 6. In the `Security credentials` tab, click `Create access key`.
 
-<figure><img src="../../../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
 7. Select `Command Line Interface` as the use case and click `Next`.
 
-<figure><img src="../../../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
 8. Click on `Create access key` .
 
-<figure><img src="../../../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
 9. Copy and store the `Access key` and `Secret access key`.
 
-<figure><img src="../../../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Copy and securely store the Access key and Secret access key for later use. Ensure they are not exposed to unauthorized access

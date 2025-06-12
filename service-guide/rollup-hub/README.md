@@ -8,7 +8,7 @@ description: 'Tokamak Rollup Hub: A Tailor-Made L2 Rollup Solution for Developer
 Service URL
 
 * Website: [https://rolluphub.tokamak.network/](https://rolluphub.tokamak.network/)
-* Github: [https://github.com/tokamak-network/tokamak-rollup-hub](https://github.com/tokamak-network/tokamak-rollup-hub)&#x20;
+* Github: [https://github.com/orgs/tokamak-network/teams/project\_trh/repositories](https://github.com/orgs/tokamak-network/teams/project_trh/repositories)
 * Discord channel: [https://discord.gg/J5jC9gJpYb](https://discord.gg/J5jC9gJpYb)
 {% endhint %}
 

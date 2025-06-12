@@ -10,7 +10,7 @@ To estimate operational costs, we've created a worksheet that allows you to adju
 
 ### **1. Configurable FPS Parameters from the Downloaded Config File**
 
-<figure><img src="../../../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Fig. Generate and download config file</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Fig. Generate and download config file</p></figcaption></figure>
 
 **Parameters to Consider**
 
@@ -37,7 +37,7 @@ To estimate operational costs, we've created a worksheet that allows you to adju
 
 ## 2. Adjustment of Initial Bond(DisputeGameFactory\_setInitBond)
 
-<figure><img src="../../../../../.gitbook/assets/6 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/6 (3).png" alt=""><figcaption></figcaption></figure>
 
 Fig. Safe Wallet sending ‘new transaction’.
 
