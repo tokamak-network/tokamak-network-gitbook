@@ -14,7 +14,7 @@ description: 'Tokamak Rollup Hub: A Tailor-Made L2 Rollup Solution for Developer
 
 **Empowering Developers and Users with Customized L2 Rollup Solutions**
 
-Tokamak Network proudly introduces the Tokamak Rollup Hub, empowering developers and users to seamlessly design anfd deploy customized and autonomous Layer 2 Rollups on the Ethereum blockchain. This user-centric solution eliminates the need for intricate coding expertise, enabling anyone to craft rollups tailored to their specific needs. By lowering the barriers to entry and fostering a more inclusive blockchain landscape, Tokamak Network is actively contributing to the scalability and expansion of the Ethereum ecosystem.
+Tokamak Network proudly introduces the Tokamak Rollup Hub, empowering developers and users to seamlessly design and deploy customized and autonomous Layer 2 Rollups on the Ethereum blockchain. This user-centric solution eliminates the need for intricate coding expertise, enabling anyone to craft rollups tailored to their specific needs. By lowering the barriers to entry and fostering a more inclusive blockchain landscape, Tokamak Network is actively contributing to the scalability and expansion of the Ethereum ecosystem.
 
 #### **Key Features of Tokamak Rollup Hub**
 

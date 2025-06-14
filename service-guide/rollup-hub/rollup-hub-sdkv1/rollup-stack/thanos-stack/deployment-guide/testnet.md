@@ -196,10 +196,6 @@ trh-sdk deploy
 
 2. Upon executing the deploy command, you will receive the following prompts from the SDK. You should be able to answer them easily using the information from your prerequisite preparation.
 
-{% hint style="info" %}
-Hint: Use unique identifiers in **chain name** since now redeployment with same name is impossible.
-{% endhint %}
-
 ```bash
 Please select your infrastructure provider [AWS] (default: AWS):  // You can put just enter for AWS deployment
 -----------------------
