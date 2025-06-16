@@ -11,6 +11,7 @@ The **Tokamak Rollup Hub** is an on-demand Layer 2 infrastructure platform desig
 
 The **SDKv1** is a command-line tool designed to simplify the deployment of Layer 2 Appchains (rollups) within the Tokamak ecosystem. It offers a seamless, developer-friendly deployment experience by providing configurable stack options and integration modules.
 
+> 🔗 **Source Code:** [GitHub](https://github.com/tokamak-network/trh-sdk)\
 > 📌 **Note:** SDKv1 currently supports **macOS** and **Linux** environments.
 
 ### Key Capabilities
