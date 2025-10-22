@@ -10,41 +10,74 @@ description: 제안된 안건에 대하여 DAO 위원회의 3인 멤버는 다�
 * 일반 유저들은 자신이 지지하는 멤버에게 [스테이킹](../simple-staking/stake.md#id-01.-delegated-staking)을 실시하여 간접적으로 참여하게 됩니다.&#x20;
 {% endhint %}
 
-[Propose 페이지](propose.md)를 통해 제안된 안건은 Agenda 페이지에 나타나게 됩니다. DAO 맴버 3인은 각자 투표를 하게 되며, 투표기간 동안 일반 유저들은 이러한 과정을 열람할 수 있습니다.&#x20;
 
-### 1. 안건 상세보기
 
-클릭하면 안건의 주요 내용과 DAO 위원회 3인 멤버의 투표현황 등을 볼 수 있는 페이지로 진입하게 됩니다.
+### Agenda Rules
 
-<figure><img src="../../../.gitbook/assets/image (370).png" alt="" width="375"><figcaption><p>DAO 위원회 페이지의 Agenda 매뉴</p></figcaption></figure>
+* Propose Rules
+  * DAO의 Agenda 생성은 누구나 할 수 있습니다.
+  * Agenda를 생성할때 Agenda 생성자는 Agenda Create Fee로 10TON을 지불해야하고 해당 Agenda Create Fee는 Burn을 진행합니다.
+  * Agenda의 내용은 Tokamak생태계에 관련된 모든 내용을 Propose할 수 있습니다.
+* Vote Rule
+  * Member가 Agenda에 대해서 투표할 수 있으며 기권,찬성,반대로 투표할 수 있습니다.
+  * 3명의 Member 중 2명이 찬성하면 Agenda는 통과되게 됩니다. (투표 값들은 투표 중에는 변경될 수 있습니다.)
+  * 투표기간 동안 투표가 되지않은 표들은 기권표로 결정됩니다.
+  * Agenda가 생성되고 투표가 시작되기전 멤버가 변경되면 변경된 멤버가 투표할 수 있습니다.
+  * 투표가 시작되고 난 뒤 멤버가 변경되어도 이전 멤버만 투표할 수 있습니다.
+* Vote Period
+  * 기간은 Notice Period, Voting Period, Execute Period로 기간이 나누어집니다.
+  * Notice Period의 최소기간은 16일이고 Voting Period의 최소기간은 2일이다.
+  * Notice Period와 Voting Period의 정확한 값은 Agenda가 생성될 때 결정되고 최소기간과 같거나 더 커야합니다.
+  * Execute Period의 기간은 7일로 고정되어 있습니다.
+  * Agenda가 생성되고 Notice Period가 지난 후 누군가 투표를 진행해야 Voting Period와 Execute Period가 결정됩니다.
+  * 투표가 통과된 Agenda의 Execute Period에서 누구나 해당 Agenda에 대한 Execute가 가능합니다.
 
-### 2. 투표 및 안건 실행
 
-* DAO 위원회 3인 멤버는 아래 그림의 2와 같이 안건에 대한 투표버튼이 나타나게 됩니다 (일반 유저에게는 보이지 않습니다)
 
-<figure><img src="../../../.gitbook/assets/image (384).png" alt="" width="375"><figcaption><p>DAO 위원회 3인 멤버에게만 나타나는 투표(Vote) 버튼</p></figcaption></figure>
+### Agenda Proposal
 
-* DAO 위원회 3인 멤버가 사용하는 투표양식은 찬/반/투표거부 3가지에 대한 선택 여부 뿐만 아니라, 코멘트까지 상세히 적을 수 있도록 하였습니다.&#x20;
+* dao-community-version의 [sample-1](https://github.com/tokamak-network/dao-community-version/tree/main/sample-1)을 이용하여서 dao-community-version을 local에서 실행합니다.
+* 실행 후 [http://localhost:3000/](http://localhost:3000/) 에 접속하면 아래와 같이 표시됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (373).png" alt="" width="375"><figcaption><p>투표(Vote) 버튼을 누르면 나타나는 투표양식</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
 
-* 3명 중 2명이상이 찬성하면 안건이 통과된 것입니다. 아래 그림 3과 같이 실행(Execute) 버튼이 활성화됩니다.&#x20;
-* 실행을 클릭합니다. 이는 제안자뿐만 아니라 누구든지 실행할 수 있습니다.&#x20;
-* 실행버튼을 누른 후 메타마스크 지갑이 나타나면 컨펌을 클릭함으로써 절차가 완료됩니다.
-* 실행버튼을 누르면 투표결과에 따라 스마트계약(smart contract)에 의해 해당 내용이 즉시 반영됩니다.&#x20;
+*   Agenda 탭을 클릭하면 아래와 같은 화면이 나옵니다.
 
-<figure><img src="../../../.gitbook/assets/image (381).png" alt="" width="375"><figcaption><p>안건실행</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
+*   New proposal 버튼을 클릭하면 아래와 같은 화면이 나옵니다.
 
-* 만약 제안자가 본인이 제안한 안건을 취소하려면  아래 그림 4번과 같이 END AGENDA를 클릭합니다.&#x20;
-* 1명이라도 투표에 참여한 이후라면 안건 취소가 불가능합니다.
+    <figure><img src="../../../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
+* Proposal에 관련된 내용을 채우고 Add Action 버튼을 클릭합니다.
 
-<figure><img src="../../../.gitbook/assets/image (382).png" alt="" width="375"><figcaption><p>제안 취소(END AGENDA)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (410).png" alt=""><figcaption></figcaption></figure>
 
-### 3. 투표현황
+* 실행하고자 하는 주소와 함수와 함수값들을 세팅하고 Add Action 버튼을 클릭한 후 Preview & Submit 버튼을 클릭합니다.
 
-* DAO 위원회 3인 멤버의 투표현황 등을 파악할 수 있습니다(아래 그림에서 6번).
-* 투표참여자가 남긴 코멘트의 갯수를 나타냅니다(아래 그림에서 7번).
-* 구체적인 코멘트를 볼 수 있습니다(아래 그림에서 8번).
+<figure><img src="../../../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (389).png" alt="" width="375"><figcaption><p>안건에 대한 투표현황 열람</p></figcaption></figure>
+* Submit DAO Agenda 버튼을 클릭해서 Agenda를 최종 제출합니다.
+
+
+
+### Agenda Status
+
+<figure><img src="../../../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
+
+* 위의 Agenda 화면에서 View Details 버튼을 클릭합니다.
+
+<figure><img src="../../../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
+
+* 위의 스크린샷처럼 Agenda에 대한 정보를 확인할 수 있습니다.
+
+
+
+### Agenda Vote
+
+<figure><img src="../../../.gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
+
+* 위의 Agenda 화면에서 View Details 버튼을 클릭합니다.
+
+<figure><img src="../../../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
+
+* Agenda의 상태가 투표기간이고 연결된 지갑이 Member라면 Vote버튼을 클릭해서 투표가능합니다. (투표는 찬성, 반대, 기권으로 진행할 수 있습니다.)
 
