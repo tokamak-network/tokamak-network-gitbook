@@ -10,8 +10,8 @@ description: >-
 {% hint style="info" %}
 Service URL
 
-* Website: [https://dao.tokamak.network/](https://dao.tokamak.network/)
 * Github (contract): [https://github.com/tokamak-network/tokamak-dao-contracts](https://github.com/tokamak-network/tokamak-dao-contracts)
+* Community-version : [https://github.com/tokamak-network/dao-community-version](https://github.com/tokamak-network/dao-community-version)
 * Contract addresses: [link](contract-addresses.md)
 {% endhint %}
 
@@ -21,7 +21,5 @@ DAO stands for Decentralized Autonomous Organization. DAO committee members part
   Anyone can become a DAO committee candidate by creating a DAO candidate contract and staking 1000.1 TON as a collateral.
 * DAO committee members:\
   The top three DAO candidates, based on the staked amount, can serve as committee members. This staking amount includes the staked TON delegated by other stakers.
-* Propose:\
-  Anyone can make a proposal to change Tokamak Network Ecosystem.
 * Agenda:\
-  The three DAO committee members can proceed to the Agenda menu and vote on community-proposed agendas. Voting is done only by DAO committee members.
+  Anyone can propose a proposal, and the three DAO committee members can vote on proposals proposed by the community. Voting is conducted by a majority vote of the three-member committee.
