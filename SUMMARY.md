@@ -26,7 +26,7 @@
     * [Staking reward](service-guide/staking-and-dao/simple-staking/staking-reward.md)
     * [Contract addresses (영문 링크)](https://docs.tokamak.network/home/service-guide/staking-and-dao/simple-staking/contract-addresses)
   * [Tokamak Network DAO](service-guide/staking-and-dao/tokamak-network-dao/README.md)
-    * [DAO candidates](service-guide/staking-and-dao/tokamak-network-dao/dao-candidates.md)
+    * [DAO candidates](service-guide/staking-and-dao/tokamak-network-dao/dao-candidates/README.md)
     * [Agenda](service-guide/staking-and-dao/tokamak-network-dao/agenda.md)
     * [Contract addresses (영문 링크)](https://docs.tokamak.network/home/service-guide/staking-and-dao/tokamak-network-dao/contract-addresses)
 * [Rollup Hub](service-guide/rollup-hub/README.md)

@@ -25,16 +25,16 @@ DAO candidate 등록 : [link](https://github.com/tokamak-network/TokamakDAO/blob
 * [staking-community-version](https://github.com/tokamak-network/staking-community-version)을 이용하여 staking-community-version을 local에서 실행합니다.
 * 실행 후 [http://localhost:3000/](http://localhost:3000/) 에 접속하면 아래와 같이 표시됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
 
 * Connect wallet 버튼을 클릭하여서 자신의 지갑에 연결해줍니다.
 * 연결 후 아래와 같이 Staking이 가능한 Candidate들이 나옵니다.
 
-<figure><img src="../../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
 
 * 다음 중 하나의 Candidate를 클릭하여서 아래의 하면이 나오면 TON 또는 WTON을 이용하여서 Staking할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -43,11 +43,11 @@ DAO candidate 등록 : [link](https://github.com/tokamak-network/TokamakDAO/blob
 * dao-community-version의 [sample-1](https://github.com/tokamak-network/dao-community-version/tree/main/sample-1)을 이용하여서 dao-community-version을 local에서 실행합니다.
 * 실행 후 [http://localhost:3000/](http://localhost:3000/) 에 접속하면 아래와 같이 표시됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (411).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (411).png" alt=""><figcaption></figcaption></figure>
 
 * view DAO Committee Members 버튼을 클릭하면 Member를 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (412).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (412).png" alt=""><figcaption></figcaption></figure>
 
 
 
