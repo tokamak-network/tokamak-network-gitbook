@@ -7,7 +7,7 @@ description: 제안된 안건에 대하여 DAO 위원회의 3인 멤버는 다�
 {% hint style="warning" %}
 투표는 DAO 위원회 멤버 3인만 참여할 수 있습니다.
 
-* 일반 유저들은 자신이 지지하는 멤버에게 [스테이킹](../simple-staking/stake.md#id-01.-delegated-staking)을 실시하여 간접적으로 참여하게 됩니다.&#x20;
+* 일반 유저들은 자신이 지지하는 멤버에게 [스테이킹](/broken/pages/W2slcwlYQfT0zdQ0NKtg#id-01.-delegated-staking)을 실시하여 간접적으로 참여하게 됩니다.&#x20;
 {% endhint %}
 
 
@@ -39,21 +39,21 @@ description: 제안된 안건에 대하여 DAO 위원회의 3인 멤버는 다�
 * dao-community-version의 [sample-1](https://github.com/tokamak-network/dao-community-version/tree/main/sample-1)을 이용하여서 dao-community-version을 local에서 실행합니다.
 * 실행 후 [http://localhost:3000/](http://localhost:3000/) 에 접속하면 아래와 같이 표시됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
 
 *   Agenda 탭을 클릭하면 아래와 같은 화면이 나옵니다.
 
-    <figure><img src="../../../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
 *   New proposal 버튼을 클릭하면 아래와 같은 화면이 나옵니다.
 
-    <figure><img src="../../../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
 * Proposal에 관련된 내용을 채우고 Add Action 버튼을 클릭합니다.
 
-<figure><img src="../../../.gitbook/assets/image (410).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (410).png" alt=""><figcaption></figcaption></figure>
 
 * 실행하고자 하는 주소와 함수와 함수값들을 세팅하고 Add Action 버튼을 클릭한 후 Preview & Submit 버튼을 클릭합니다.
 
-<figure><img src="../../../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
 
 * Submit DAO Agenda 버튼을 클릭해서 Agenda를 최종 제출합니다.
 
@@ -61,11 +61,11 @@ description: 제안된 안건에 대하여 DAO 위원회의 3인 멤버는 다�
 
 ### Agenda Status
 
-<figure><img src="../../../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
 
 * 위의 Agenda 화면에서 View Details 버튼을 클릭합니다.
 
-<figure><img src="../../../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
 
 * 위의 스크린샷처럼 Agenda에 대한 정보를 확인할 수 있습니다.
 
@@ -73,11 +73,10 @@ description: 제안된 안건에 대하여 DAO 위원회의 3인 멤버는 다�
 
 ### Agenda Vote
 
-<figure><img src="../../../.gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
 
 * 위의 Agenda 화면에서 View Details 버튼을 클릭합니다.
 
-<figure><img src="../../../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
 
 * Agenda의 상태가 투표기간이고 연결된 지갑이 Member라면 Vote버튼을 클릭해서 투표가능합니다. (투표는 찬성, 반대, 기권으로 진행할 수 있습니다.)
-

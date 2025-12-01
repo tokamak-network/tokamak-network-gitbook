@@ -22,8 +22,7 @@ description: TON ↔ WTON 이더스캔 가이드입니다.
           <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>이더스캔의 swapFromTON</p></figcaption></figure>
 
 
-      2. tonAmount : WTON으로 변환하고자 하는 TON의 양을 입력하세요 (Step 1에서 승인하신 금액을 초과할 수는 없습니다.)\
-
+      2. tonAmount : WTON으로 변환하고자 하는 TON의 양을 입력하세요 (Step 1에서 승인하신 금액을 초과할 수는 없습니다.)<br>
 2. WTON → TON
    1.  [swapToTON](https://etherscan.io/address/0xc4a11aaf6ea915ed7ac194161d2fc9384f15bff2#writeContract#F20)을 방문합니다.
 

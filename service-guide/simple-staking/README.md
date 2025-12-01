@@ -9,7 +9,7 @@ description: 토카막 네트워크가 제공하는 스테이킹 시스템을 �
 
 * Website: [https://simple.staking.tokamak.network](https://simple.staking.tokamak.network/)
 * Github (contract): [https://github.com/tokamak-network/ton-staking-v2](https://github.com/tokamak-network/ton-staking-v2)
-* Contract addresses: [link ](broken-reference)
+* Contract addresses: link
 {% endhint %}
 
 ### 1. 특징
@@ -19,9 +19,11 @@ description: 토카막 네트워크가 제공하는 스테이킹 시스템을 �
 * 첫째, DAO 후보자에게 TON 또는 WTON을 스테이킹을 해서 일정한 스테이킹 보상을 거둘 수 있습니다.&#x20;
 * 둘째, 스테이킹 물량의 순서대로 상위 DAO 후보자 3명은 DAO committee에서 각종 의사결정을 담당하는 맴버로 활동할 수 있습니다.
 
+
+
 ### 2. 페이지 구성
 
-<figure><img src="../../../.gitbook/assets/image (322).png" alt="" width="375"><figcaption><p>스테이킹 페이지의 초도화면</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (322).png" alt="" width="375"><figcaption><p>스테이킹 페이지의 초도화면</p></figcaption></figure>
 
 1. **Home**
 
@@ -59,7 +61,7 @@ description: 토카막 네트워크가 제공하는 스테이킹 시스템을 �
 
 1. 메타마스크로 당사 서비스에 연결하려면 [Google Chrome](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) 또는 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/)브라우저에 메타마스크 확장 프로그램을 설치하세요. 이미 메타마스크 지갑에 TON이 있는 경우 해당 지갑에 로그인하거나 이미 TON이 있는 계정(account)을 가져오세요.
 
-<img src="../../../.gitbook/assets/image (1) (1).png" alt="Metamask in Google Chrome Extenstion" data-size="original">
+<img src="../../.gitbook/assets/image (1) (1).png" alt="Metamask in Google Chrome Extenstion" data-size="original">
 
 2. 지갑에 TON을 추가하려면 이더리움 메인넷 네트워크에 연결되어 있는지 확인하세요. 그런 다음 토큰 추가 버튼을 클릭합니다.
 3. Custom Token 탭을 클릭합니다.&#x20;
@@ -68,7 +70,7 @@ description: 토카막 네트워크가 제공하는 스테이킹 시스템을 �
 5. Next 버튼을 클릭합니다.&#x20;
 6. 토큰 추가 버튼을 눌러 계정에 TON을 추가합니다.
 
-<img src="../../../.gitbook/assets/image (4) (1).png" alt="How to add TON in your wallet" data-size="original">
+<img src="../../.gitbook/assets/image (4) (1).png" alt="How to add TON in your wallet" data-size="original">
 
 </details>
 
@@ -76,4 +78,5 @@ description: 토카막 네트워크가 제공하는 스테이킹 시스템을 �
 
 * Trezor 지갑을 연결할 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (324).png" alt="" width="188"><figcaption><p>암호화폐지갑 연결을 통한 로그인</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (324).png" alt="" width="188"><figcaption><p>암호화폐지갑 연결을 통한 로그인</p></figcaption></figure>
+
