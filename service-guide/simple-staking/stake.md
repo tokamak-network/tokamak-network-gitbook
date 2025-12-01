@@ -10,7 +10,7 @@ description: >-
 
 To stake TON in the DAO candidate list, click on the expand button on the right for more details.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### **2.  Staking information**
 
@@ -23,13 +23,13 @@ When the detail information window expands, check the information about the DAO 
 * **Unclaimed Staking Reward**: Unclaimed staking reward that has accumulated.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### **3. Stake**
 
 There is a simulator in the upper right corner of the staking screen. With this, you can calculate the expected return rate according to the amount and duration of staking.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * When you press the Simulator button, a popup appears.&#x20;
 * Enter the TON to be staked.&#x20;
@@ -42,7 +42,7 @@ There is a simulator in the upper right corner of the staking screen. With this,
 * To recalculate, click the Recalculate button.&#x20;
 * When you click the Stake button, a popup window as below appears, and the quantity entered in the simulator is displayed identically, so you can conveniently execute staking immediately (quantity modification is also possible). You can stake TON or WTON.
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 When you press the Stake button, a Metamask popup window opens in the browser's Metamask extension. Complete the staking by clicking confirm.
 

@@ -42,23 +42,23 @@ Only the DAO committee have voting rights.
 * Run dao-community-version locally using [sample-1](https://github.com/tokamak-network/dao-community-version/tree/main/sample-1) of dao-community-version.
 * After running, if you access [http://localhost:3000/](http://localhost:3000/), you will see the following
 
-<figure><img src="../../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
 
 * When you click the Agenda tab, a screen like the one below will appear.
 
-<figure><img src="../../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
 
 * When you click the New proposal button, the screen below will appear.
 
-<figure><img src="../../../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
 
 * Fill in the details related to your proposal and click the Add Action button.
 
-<figure><img src="../../../.gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
 
 * Set the address, function, and function values ​​you want to execute, click the Add Action button, and then click the Preview & Submit button.
 
-<figure><img src="../../../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
 
 * Click the Submit DAO Agenda button to finalize the agenda.
 
@@ -66,11 +66,11 @@ Only the DAO committee have voting rights.
 
 ### Agenda Status
 
-<figure><img src="../../../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
 
 * On the Agenda screen above, click the View Details button.
 
-<figure><img src="../../../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
 
 * You can check information about the agenda as shown in the screenshot above.
 
@@ -78,13 +78,10 @@ Only the DAO committee have voting rights.
 
 ### Agenda Vote
 
-<figure><img src="../../../.gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
 
 * On the Agenda screen above, click the View Details button.
 
-<figure><img src="../../../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
 
 * If the Agenda status is Voting Period and the linked wallet is a Member, you can vote by clicking the Vote button. (Voting can be done in either "Yes", "No", or "Abstain")
-
-
-

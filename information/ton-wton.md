@@ -22,8 +22,7 @@ You can wrap TON into WTON or unwrap WTON back into TON via Etherscan.&#x20;
           <figure><img src="../.gitbook/assets/image (370).png" alt=""><figcaption><p>swapFromTON section of Etherscan</p></figcaption></figure>
 
 
-      2. tonAmount : Enter the amount you want to swap TON to WTON (it must not be greater than the value you approved in Step 1).\
-
+      2. tonAmount : Enter the amount you want to swap TON to WTON (it must not be greater than the value you approved in Step 1).<br>
 2. WTON → TON
    1.  Visit [swapToTON](https://etherscan.io/address/0xc4a11aaf6ea915ed7ac194161d2fc9384f15bff2#writeContract#F20)&#x20;
 

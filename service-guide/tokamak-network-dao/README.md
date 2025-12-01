@@ -8,11 +8,9 @@ description: >-
 # Tokamak Network DAO
 
 {% hint style="info" %}
-Service URL
-
 * Github (contract): [https://github.com/tokamak-network/tokamak-dao-contracts](https://github.com/tokamak-network/tokamak-dao-contracts)
 * Community-version : [https://github.com/tokamak-network/dao-community-version](https://github.com/tokamak-network/dao-community-version)
-* Contract addresses: [link](contract-addresses.md)
+* Contract addresses: [link](/broken/pages/hQYikd2FDj9X5cDVPmVH)
 {% endhint %}
 
 DAO stands for Decentralized Autonomous Organization. DAO committee members participate in decision-making by voting on matters related to the Tokamak network ecosystem.

@@ -16,4 +16,4 @@ description: >-
 
 ### Mainnet
 
-If you encounter any issues during deployment or usage, please open a discussion in the Discussion section of the official [Tokamak-Thanos-Stack](https://github.com/tokamak-network/tokamak-thanos-stack/discussions) GitHub repository or [Discord ](https://discord.gg/UbFFKucu)channel.\
+If you encounter any issues during deployment or usage, please open a discussion in the Discussion section of the official [Tokamak-Thanos-Stack](https://github.com/tokamak-network/tokamak-thanos-stack/discussions) GitHub repository or [Discord ](https://discord.gg/UbFFKucu)channel.<br>

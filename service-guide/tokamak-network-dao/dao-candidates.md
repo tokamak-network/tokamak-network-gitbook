@@ -25,16 +25,16 @@ DAO candidate registration: [link](https://github.com/tokamak-network/TokamakDAO
 * Run staking-community-version locally using [staking-community-version](https://github.com/tokamak-network/staking-community-version).
 * After running, if you access [http://localhost:3000](http://localhost:3000/), you will see the following:
 
-<figure><img src="../../../.gitbook/assets/image (395).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (395).png" alt=""><figcaption></figcaption></figure>
 
 * Click the Connect wallet button to connect to your wallet.
 * After connecting, candidates available for staking will appear as shown below.
 
-<figure><img src="../../../.gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
 
 * You can stake using TON or WTON by clicking on one of the following Candidates and then seeing the screen below.
 
-<figure><img src="../../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -43,11 +43,9 @@ DAO candidate registration: [link](https://github.com/tokamak-network/TokamakDAO
 * Run dao-community-version locally using [sample-1](https://github.com/tokamak-network/dao-community-version/tree/main/sample-1) of dao-community-version.
 * After running, if you access [http://localhost:3000/](http://localhost:3000/), you will see the following
 
-<figure><img src="../../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
 
 * You can check the members by clicking the view DAO Committee Members button.
 
-<figure><img src="../../../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
 

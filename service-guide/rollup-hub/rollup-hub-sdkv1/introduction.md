@@ -6,8 +6,7 @@ description: >-
 
 # Introduction
 
-The **Tokamak Rollup Hub** is an on-demand Layer 2 infrastructure platform designed to enable seamless deployment and end-to-end lifecycle management of Appchains. SDKv1 marks the first step in realizing this vision.\
-
+The **Tokamak Rollup Hub** is an on-demand Layer 2 infrastructure platform designed to enable seamless deployment and end-to-end lifecycle management of Appchains. SDKv1 marks the first step in realizing this vision.<br>
 
 The **SDKv1** is a command-line tool designed to simplify the deployment of Layer 2 Appchains (rollups) within the Tokamak ecosystem. It offers a seamless, developer-friendly deployment experience by providing configurable stack options and integration modules.
 
