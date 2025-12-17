@@ -16,16 +16,20 @@ Sometimes, users say that even after waiting about two weeks (Withdrawal delay p
 
 ### &#x20;1. Unstake
 
-* When you press the Unstake button, a pop-up appears.
+<figure><img src="../../.gitbook/assets/8-unstake.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+**What is Unstake:**
 
-* When the pop-up window appears, enter the amount of TON to be unstaked.&#x20;
-* Click the Unstake button.
+* **Unstake** is the process to withdraw L1 staked amounts
+* **Do NOT use Unstake** if you want to withdraw to L2 - use Withdraw-L2 instead
+* **Maximum amount** you can input in Unstake is limited to your "Your Staked Amount"
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt="" width="148"><figcaption></figcaption></figure>
+**How to Unstake:**
 
-* Click the confirm button in the Metamask popup that opens in the Metamask extension of the browser.&#x20;
+1. Click the **Unstake button** on your staking position
+2. **Enter the amount** you want to unstake
+3. **Confirm the transaction** in your wallet
+4. Click the confirm button in the Metamask popup that opens in the Metamask extension of the browser.&#x20;
 
 {% hint style="warning" %}
 Before unstaking, check if there are any unclaimed staking rewards
@@ -36,23 +40,41 @@ Before unstaking, check if there are any unclaimed staking rewards
 
 ### &#x20;2. Withdraw
 
-* You can withdraw after 93,046 blocks (\~14 days) from unstaking. When you press the Withdraw button, a pop-up window appears.
+**Option 1: L1 Withdrawal (Standard)**
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4-select_l1_withdraw (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-* The amount ready for withdrawal is shown in the Withdrawable Balance. This is the amount that has undergone the two-week delay period after unstaking.
-* If you press the Withdraw button, the whole amount available for withdrawal is taken out. Partial withdrawal is not an option.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt="" width="167"><figcaption></figcaption></figure>
 
-* Click the confirm button on the Metamask popup to complete the transaction.
+1. **Click the withdraw button** on your staking position
+2. **Select L1 withdrawal** for standard Ethereum network
+3. **Choose token** to withdraw - select TON to receive TON, select WTON to receive WTON
+4. **Available withdrawal amount** is automatically calculated and filled in
+5. **Confirm transaction** in your wallet
+
+**Option 2: L2 Withdrawal (If Available)**
+
+<figure><img src="../../.gitbook/assets/5-select_l2_withdraw.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+**What is L2 Withdrawal:** L2 Withdrawal allows you to withdraw TON staked to an L2 network (e.g., Poseidon in the image above) where your operator acts as a sequencer. While L1 Withdrawals take about 2 weeks, L2 Withdrawals only require waiting for the L2 network to process the deposited amount.
+
+**How to Withdraw to L2:**
+
+1. **Select L2 withdrawal** if your operator supports it
+2. **Choose withdrawal amount**
+3. **Confirm the transaction**
+4. **Wait for L2 processing** before funds are available
 
 ### **3. Restake**
 
 After unstaking, you can restake at any time, provided you haven't made the withdrawal. The pending withdrawal amount will be displayed as 'Restakable Amount' in the pop-up window when you click the Restake button.
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9-restake.png" alt="" width="375"><figcaption></figcaption></figure>
 
-* When you click the Restake button, a popup will appear.&#x20;
-* The amount that can be restaked is displayed under the Restakable Amount. You can apply Restake to this entire amount at once, but not to just a portion of it.&#x20;
-* Clicking the Restake button will open a Metamask popup window in your browser's Metamask extension. Confirm the action by pressing the confirm button.
+**How to Restake:**
+
+1. **Check the pending amount** after unstaking
+2. **Click Restake** to confirm
+3. **Confirm the transaction** in your wallet

@@ -6,11 +6,11 @@ description: >-
 
 # Stake
 
-### **1. DAO candidate**
+### **1. DAO candidate**
 
 To stake TON in the DAO candidate list, click on the expand button on the right for more details.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1-main (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **2.  Staking information**
 
@@ -21,30 +21,31 @@ When the detail information window expands, check the information about the DAO 
 * **Pending Withdrawal**: The total amount not withdrawn after executing unstake&#x20;
 * **Your Staked**: The amount you have staked for the currently selected DAO candidate&#x20;
 * **Unclaimed Staking Reward**: Unclaimed staking reward that has accumulated.
+* If the operator is an L2 Sequencer, you'll also see:
+  * **TON amount bridged** to that L2 network
+  * **TON amount** the L2 sequencer can claim
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2-L2operator.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
 
 ### **3. Stake**
 
-There is a simulator in the upper right corner of the staking screen. With this, you can calculate the expected return rate according to the amount and duration of staking.
+<figure><img src="../../.gitbook/assets/3-input_amount.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+**How Staking Works:**
 
-* When you press the Simulator button, a popup appears.&#x20;
-* Enter the TON to be staked.&#x20;
-* Select the duration of the stake.&#x20;
-* Click the Calculate button.&#x20;
-* To close the popup, click the X button.&#x20;
-* The expected amount of TON (or WTON) to be acquired during the selected period is displayed here.&#x20;
-* USD value, APY, and KRW value of the TON amount to be obtained are displayed here.&#x20;
-* When you click the Stake button, a popup window where you can stake appears.&#x20;
-* To recalculate, click the Recalculate button.&#x20;
-* When you click the Stake button, a popup window as below appears, and the quantity entered in the simulator is displayed identically, so you can conveniently execute staking immediately (quantity modification is also possible). You can stake TON or WTON.
+* You can stake using **TON or WTON tokens** you own
+* When **TON is selected**, the Balance shows your available TON amount
+* When **WTON is selected**, the Balance shows your available WTON amount
+* Click the **Max button** to input the maximum amount you can stake (e.g., 121,955.25 TON as shown in the image)
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+**Confirming Your Stake:**
 
-When you press the Stake button, a Metamask popup window opens in the browser's Metamask extension. Complete the staking by clicking confirm.
+* After entering the amount, if everything is correct, the button changes to **"Stake"**
+* Click the **Stake button** to execute the staking transaction
+* When you press the Stake button, a Metamask popup window opens in the browser's Metamask extension. Complete the staking by clicking confirm.
 
 {% hint style="warning" %}
 If Stake button is disabled
