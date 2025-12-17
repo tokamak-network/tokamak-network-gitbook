@@ -1,14 +1,14 @@
 # Step 2 - Account and AWS Configuration
 
-1. In this step, the user will be prompted to enter the seed phrase for the account holding the Ether balance (Testnet) needed to deploy the chain. If you want to know more about this, please see [this](https://docs.tokamak.network/home/~/revisions/2GhxIXb1VQ8ZXausKkQz/service-guide/tokamak-rollup-hub/tokamak-rollup-hub-platform/deploy-new-rollup-chain/step-3-account-and-aws-configuration/seed-phrase-guidelines) section.&#x20;
-2.  If the user does not provide a seed phrase, the platform can automatically generate one. This can be done by clicking the Generate Random button. After generating the seed phrase, make sure to fund the associated address with the required Sepolia ETH. Please refer to this [section](https://docs.tokamak.network/home/~/revisions/2GhxIXb1VQ8ZXausKkQz/service-guide/tokamak-rollup-hub/tokamak-rollup-hub-platform/deploy-new-rollup-chain/step-3-account-and-aws-configuration/seed-phrase-guidelines) for more details about the required ETH balance.<br>
+1. In this step, the user will be prompted to enter the seed phrase for the account holding the Ether balance (Testnet) needed to deploy the chain. If you want to know more about this, please see [this](https://docs.tokamak.network/home/service-guide/tokamak-rollup-hub/tokamak-rollup-hub-platform/deploy-new-rollup-chain/step-2-account-and-aws-configuration/seed-phrase-guidelines) section.&#x20;
+2.  If the user does not provide a seed phrase, the platform can automatically generate one. This can be done by clicking the Generate Random button. After generating the seed phrase, make sure to fund the associated address with the required Sepolia ETH. Please refer to this [section](https://docs.tokamak.network/home/service-guide/tokamak-rollup-hub/tokamak-rollup-hub-platform/deploy-new-rollup-chain/step-2-account-and-aws-configuration/seed-phrase-guidelines) for more details about the required ETH balance.<br>
 
     ![](<../../../../../.gitbook/assets/Screenshot 2025-12-05 at 2.54.17 PM.png>)
 3. To deploy successfully, the operator must configure AWS credentials with specific privileges to access Amazon EKS. Follow the stages below to prepare your environment.\
    \
    **Phase 1: IAM User & Credential Setup**\
    If you do not have an existing AWS Access Key, you must create an IAM user and generate new keys.\
-   To create an IAM User, Follow steps 1 to 9 in the [IAM Creation Guide](https://docs.tokamak.network/home/~/changes/151/service-guide/tokamak-rollup-hub/tokamak-rollup-hub-deprecated/mainnet-beta/deploy-with-aws/prerequisites#id-4.-set-up-aws-account).&#x20;
+   To create an IAM User, You can follow these steps [IAM Creation Guide](https://docs.aws.amazon.com/keyspaces/latest/devguide/create.keypair.html).&#x20;
 
 > What is IAM? AWS Identity and Access Management (IAM) enables you to manage access to AWS services and resources securely. You can create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources.
 

@@ -8,7 +8,7 @@ Rollup Metadata Checker is a tool to verify the validity of L2 rollup informatio
 
 To check and verify validity of an L2 rollup, The chain needs to be up and running with metadata registered through either the platform or the sdk and the PR must be merged in the [metadata repo](https://github.com/tokamak-network/tokamak-rollup-metadata-repository).
 
-Check the following to register metadata - [Register Metadata](https://docs.tokamak.network/home/~/revisions/9oBVgoUEpEsBoIU1ZJ5k/service-guide/rollup-hub/rollup-hub-platform/register-metadata)
+Check the following to register metadata - [Register Metadata](https://docs.tokamak.network/home/service-guide/tokamak-rollup-hub/tokamak-rollup-hub-platform/register-metadata)
 
 #### Step 1
 

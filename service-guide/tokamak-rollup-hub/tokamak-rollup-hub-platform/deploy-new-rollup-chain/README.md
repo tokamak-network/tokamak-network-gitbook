@@ -8,10 +8,10 @@
 
 **In this section, we’ll guide you through deploying a Thanos-based L2 chain with TON as the native gas token. The process involves four steps:**
 
-1. [Network and chain configuration](https://docs.tokamak.network/home/~/revisions/14ZvC5oygDEuQPL5kOyH/service-guide/rollup-hub/rollup-hub-platform/deploy-new-rollup-chain/step-1-network-and-chain-configuration)
-2. [Accounts and AWS setup](https://docs.tokamak.network/home/~/revisions/14ZvC5oygDEuQPL5kOyH/service-guide/rollup-hub/rollup-hub-platform/deploy-new-rollup-chain/step-2-account-and-aws-configuration)
-3. [Staking/DAO candidate registration](https://docs.tokamak.network/home/~/revisions/14ZvC5oygDEuQPL5kOyH/service-guide/rollup-hub/rollup-hub-platform/deploy-new-rollup-chain/step-3-staking-dao-candidate-registration)
-4. [Review configuration and deploy](https://docs.tokamak.network/home/~/revisions/14ZvC5oygDEuQPL5kOyH/service-guide/rollup-hub/rollup-hub-platform/deploy-new-rollup-chain/step-4-review-the-details-and-deploy-the-chain)
+1. [Network and chain configuration](https://docs.tokamak.network/home/service-guide/tokamak-rollup-hub/tokamak-rollup-hub-platform/deploy-new-rollup-chain/step-1-network-and-chain-configuration)
+2. [Accounts and AWS setup](https://docs.tokamak.network/home/service-guide/tokamak-rollup-hub/tokamak-rollup-hub-platform/deploy-new-rollup-chain/step-2-account-and-aws-configuration)
+3. [Staking/DAO candidate registration](https://docs.tokamak.network/home/service-guide/tokamak-rollup-hub/tokamak-rollup-hub-platform/deploy-new-rollup-chain/step-3-staking-dao-candidate-registration)
+4. [Review configuration and deploy](https://docs.tokamak.network/home/service-guide/tokamak-rollup-hub/tokamak-rollup-hub-platform/deploy-new-rollup-chain/step-4-review-the-details-and-deploy-the-chain)
 
 Before initiating the deployment, ensure that you have an AWS access key. If not, please refer to this [guide](https://repost.aws/knowledge-center/create-access-key) to create a new one.
 

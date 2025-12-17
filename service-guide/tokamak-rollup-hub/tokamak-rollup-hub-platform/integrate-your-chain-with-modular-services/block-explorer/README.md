@@ -6,8 +6,8 @@
 
 &#x20; Prerequisites:
 
-* [Coinmarketcap API](https://docs.tokamak.network/home/~/revisions/vZ6jfjMssAY5uH4RWtbr/service-guide/rollup-hub/rollup-hub-platform/integrate-your-chain-with-modular-services/block-explorer/coinmarket-api)
-* [Reown ID (Previously WalletConnect)](https://docs.tokamak.network/home/~/revisions/YH9KHZa21xWmjYyTbJRF/service-guide/tokamak-rollup-hub/tokamak-rollup-hub-platform/integrate-your-chain-with-modular-services/block-explorer/reown-id-previously-walletconnect)
+* [Coinmarketcap API](https://docs.tokamak.network/home/service-guide/tokamak-rollup-hub/tokamak-rollup-hub-platform/integrate-your-chain-with-modular-services/block-explorer/coinmarketcap-api)
+* [Reown ID (Previously WalletConnect)](https://docs.tokamak.network/home/service-guide/tokamak-rollup-hub/tokamak-rollup-hub-platform/integrate-your-chain-with-modular-services/block-explorer/reown-id-previously-walletconnect)
 
 2. Now, click on integrations tab and check the available component types
 
