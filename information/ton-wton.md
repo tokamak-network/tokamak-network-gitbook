@@ -10,7 +10,7 @@ description: TON ↔ WTON 이더스캔 가이드입니다.
    1. Step 1 : Approve&#x20;
       1.  [Approve](https://etherscan.io/address/0x2be5e8c109e2197d077d13a82daead6a9b3433c5#writeContract#F2)를 방문합니다.
 
-          <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Etherscan의 approve 영역</p></figcaption></figure>
+          <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Etherscan의 approve 영역</p></figcaption></figure>
 
 
       2. Spender 에 입력할 주소 : [0xc4A11aaf6ea915Ed7Ac194161d2fC9384F15bff2](https://etherscan.io/address/0xc4A11aaf6ea915Ed7Ac194161d2fC9384F15bff2) (고정값, WTON Contract)
@@ -19,7 +19,7 @@ description: TON ↔ WTON 이더스캔 가이드입니다.
    2. Step 2 : swapFromTON&#x20;
       1.  [swapFromTON](https://etherscan.io/address/0xc4a11aaf6ea915ed7ac194161d2fc9384f15bff2#writeContract#F18)을 방문합니다.
 
-          <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>이더스캔의 swapFromTON</p></figcaption></figure>
+          <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>이더스캔의 swapFromTON</p></figcaption></figure>
 
 
       2. tonAmount : WTON으로 변환하고자 하는 TON의 양을 입력하세요 (Step 1에서 승인하신 금액을 초과할 수는 없습니다.)<br>
