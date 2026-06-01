@@ -4,12 +4,23 @@ description: Introducing Tokamak Network's staking system.
 
 # Simple staking
 
-{% hint style="info" %}
-Service URL
+{% hint style="warning" %}
+**The officially hosted staking website has been discontinued.**
 
-* Website: [https://simple.staking.tokamak.network](https://simple.staking.tokamak.network/)
-* Github (contract): [https://github.com/tokamak-network/ton-staking-v2](https://github.com/tokamak-network/ton-staking-v2)
-* Contract addresses: [link](/broken/pages/RhQIWxEHt4fmNRoqWb97)&#x20;
+Staking itself is fully on-chain and keeps running through the smart contracts. You can still use it in two ways:
+
+* **Etherscan** — interact with the staking contracts directly on-chain. This works regardless of any frontend and is the most reliable option. See [Interact via Etherscan](interact-via-etherscan.md).
+* **Community edition** — a community-maintained version of the staking dApp that you can self-host, or use through a community-hosted instance (see the **How to use staking** section below).
+{% endhint %}
+
+{% hint style="info" %}
+**Resources**
+
+* Documentation hub: [https://github.com/tokamak-network/TokamakStaking](https://github.com/tokamak-network/TokamakStaking)
+* Contracts: [https://github.com/tokamak-network/ton-staking-v2](https://github.com/tokamak-network/ton-staking-v2)
+* Contract addresses: [link](contract-addresses.md)
+* Audit report: [DAO & TON Staking v2 audit report](https://medium.com/tokamak-network/dao-ton-staking-v2-audit-report-2fa7bb1a9291)
+* Past announcements: [Medium (staking)](https://medium.com/tokamak-network/search?q=staking)
 {% endhint %}
 
 ### 1. Features
@@ -19,7 +30,23 @@ Tokamak Network’s staking is used to select the DAO committee members that can
 * Users can stake their TON or WTON on DAO candidates to earn staking rewards and support the DAO candidate to become one of the DAO committee members.
 * The three DAO candidates with the highest staking can become DAO committee members, where they can vote on DAO agendas.
 
-### 2. Page Information
+### 2. How to use staking
+
+Because the official website is no longer hosted, choose one of the following access methods:
+
+<table><thead><tr><th width="220">Method</th><th>What it is</th><th>When to use it</th></tr></thead><tbody><tr><td><strong>Etherscan</strong></td><td>Call the staking contract functions directly from the Etherscan "Read/Write Contract" tabs.</td><td>Always available, no dependency on any frontend. Recommended for stake, unstake, restake, withdraw, and claiming rewards. See <a href="interact-via-etherscan.md">Interact via Etherscan</a>.</td></tr><tr><td><strong>Community edition (self-hosted)</strong></td><td>Run the open-source staking frontend yourself by following the repository guide.</td><td>If you want the familiar dApp UI and prefer to host it yourself. Repo: <a href="https://github.com/tokamak-network/staking-community-version">staking-community-version</a>.</td></tr><tr><td><strong>Community edition (community-hosted)</strong></td><td>A community member hosts a public instance of the frontend.</td><td>For convenience, if you accept the risk (see warning below). Instance: <a href="https://staking-community-version.vercel.app/">staking-community-version.vercel.app</a>.</td></tr></tbody></table>
+
+{% hint style="danger" %}
+Community-hosted links are operated by community members and are **not endorsed by Tokamak Network**. Use them at your own risk — Tokamak Network provides no guarantee or support for these links. When in doubt, self-host the community edition or use Etherscan directly. Always confirm contract addresses against the [Contract addresses](contract-addresses.md) page before signing any transaction.
+{% endhint %}
+
+The pages below ([Stake](stake.md), [Withdraw](withdraw.md), [Staking reward](staking-reward.md)) describe the staking dApp interface. The community edition shares the same interface, so these walkthroughs apply when you self-host or use a community-hosted instance.
+
+### 3. Page Information
+
+{% hint style="info" %}
+The screens below come from the staking dApp. The community edition uses the same interface.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>The initial screen of the staking page</p></figcaption></figure>
 
@@ -46,7 +73,7 @@ The information provided is as follows:
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption><p>Wallet and history</p></figcaption></figure>
 
-### **3. Login**
+### **4. Login**
 
 You must first log in through wallet connection to access some features like staking and account information. You can select the wallet connection method by clicking the wallet connection button at the top right of the screen.
 
