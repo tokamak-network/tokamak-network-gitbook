@@ -13,11 +13,11 @@ description: Tokamak Network's official sites
 📌Tokamak Global Telegram: [https://t.me/tokamak\_network](https://t.me/tokamak\_network)\
 📌Tokamak Global Discord: [https://discord.gg/SZw2WSR](https://discord.gg/SZw2WSR)
 
-## Tokamak Network [Twitter](https://twitter.com/tokamak\_network)
+## Tokamak Network [X (formerly Twitter)](https://x.com/tokamak\_network)
 
-📌Tokamak Network Twitter: [https://twitter.com/tokamak\_network](https://twitter.com/tokamak\_network)
+📌Tokamak Network X: [https://x.com/tokamak\_network](https://x.com/tokamak\_network)
 
-## Tokamak Network [Medium](https://medium.com/onther-tech)
+## Tokamak Network [Medium](https://medium.com/tokamak-network)
 
 You can enjoy news of Tokamak Network here in Medium
 

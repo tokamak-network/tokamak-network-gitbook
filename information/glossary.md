@@ -12,7 +12,7 @@ TON is Tokamak Network's native token and can be swapped with other project toke
 
 ## WTON
 
-Even though TON is an ERC20 token, it cannot be swapped directly via Uniswap and other automated market makers due to a security feature. Only Tokamak Network supports direct swaps between TON and other tokens. To use automated market makers other than Tokamak Network, you wrap TON to WTON first using Tokamak Network Swap and then swap
+Even though TON is an ERC20 token, it cannot be swapped directly via Uniswap and other automated market makers (AMMs) due to a security feature. To use these AMMs, you first wrap **TON into WTON** via Etherscan, and then swap the WTON. See the [TON ↔ WTON](ton-wton.md) guide for how to wrap and unwrap.
 
 ## APY
 
