@@ -42,7 +42,7 @@ In this approach, the SDK is installed and run directly on your **local machine*
 
 This method allows you to deploy the appchain from an **AWS EC2 instance**.
 
-* Begin by launching and configuring an EC2 instance using this [step-by-step guide](https://www.notion.so/A-Step-by-Step-Guide-to-Launching-Operating-an-EC2-Instance-on-AWS-1d0d96a400a3805a94a4f92c31d964c9?pvs=21).
+* Begin by launching and configuring an EC2 instance using this [step-by-step guide](ec2-deployment.md).
 * Once your EC2 instance is ready and accessible, continue with the SDK setup and deployment process.
 
 ***
@@ -53,7 +53,7 @@ This approach uses a **Docker container** to deploy the chain.
 
 * Currently supports **Testnet** deployments only.
 * Useful for isolated or containerized environments.
-* To get started, follow this [Docker setup guide](https://www.notion.so/User-guide-for-TRH-SDK-Docker-image-1d6d96a400a380dc8481ea308eadda93?pvs=21).
+* To get started, follow this [Docker setup guide](docker-image-deployment.md).
 * Once your Docker environment is ready, proceed with the SDK setup and deployment steps.
 
 ### SDK Setup

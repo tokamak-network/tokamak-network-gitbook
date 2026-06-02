@@ -9,7 +9,7 @@ description: >-
 {% hint style="warning" %}
 Only the DAO committee have voting rights.
 
-* Regular users can participate indirectly by [staking](https://www.notion.so/b059276d14e8412694c2a25da4e7b7b3?pvs=21) to a DAO committee member.
+* Regular users can participate indirectly by [staking](../simple-staking/README.md) to a DAO committee member.
 {% endhint %}
 
 

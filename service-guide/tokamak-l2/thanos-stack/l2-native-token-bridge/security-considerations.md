@@ -2,7 +2,7 @@
 
 ## General
 
-Please review this guide and code comments thoroughly before using the L2 Native Token Bridge. Using the L2 Native Token Bridge without understanding its [requirements](https://www.notion.so/1-Overview-137d96a400a380ce9d38e73035fbeaca?pvs=21) could lead to unexpected behavior or loss of funds.
+Please review this guide and code comments thoroughly before using the L2 Native Token Bridge. Using the L2 Native Token Bridge without understanding its [requirements](overview.md) could lead to unexpected behavior or loss of funds.
 
 ## L1 Withdrawal Failure Risk with EOA Target
 
