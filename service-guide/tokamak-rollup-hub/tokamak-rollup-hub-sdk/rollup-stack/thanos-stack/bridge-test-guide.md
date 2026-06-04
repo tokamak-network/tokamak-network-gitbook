@@ -65,7 +65,7 @@ cast send --from 0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266 \
 Example output (funding 10 ETH):
 
 ```bash
-cast send --from 0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266 --rpc-url http://localhost:8545 --unlocked --value 10ether 0x90358f827D81D988355D709A06CeE594a4E38BA6
+cast send --from 0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266 --rpc-url http://localhost:8545 --unlocked --value 10ether 0x961b6fb7D210298B88d7E4491E907cf09c9cD61d
 
 blockHash               0x06a9c98e91b4970465768d27fb82055fc5a1065533758daec4b92e9ce1450a04
 blockNumber             244
@@ -195,10 +195,10 @@ Test script: [`deposit-withdraw-eth.ts`](https://github.com/tokamak-network/toka
 npx hardhat deposit-eth --amount ${amount}
 ```
 
-Example output (depositing 0.5 ETH):
+Example output (depositing 5 ETH):
 
 ```bash
-npx hardhat deposit-eth --amount 500000000000000000
+npx hardhat deposit-eth --amount 5000000000000000000
 
 Setup task...
 Deposit ETH: 5000000000000000000
@@ -228,10 +228,10 @@ l2 eth balance: 5000000000000000000
 npx hardhat withdraw-eth --amount ${amount}
 ```
 
-Example output (withdrawing 0.005 ETH):
+Example output (withdrawing 0.5 ETH):
 
 ```bash
-npx hardhat withdraw-eth --amount 5000000000000000
+npx hardhat withdraw-eth --amount 500000000000000000
 
 Setup task...
 Withdraw ETH: 500000000000000000

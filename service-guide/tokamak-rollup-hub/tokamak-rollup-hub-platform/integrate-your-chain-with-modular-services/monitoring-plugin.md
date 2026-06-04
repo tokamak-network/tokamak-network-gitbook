@@ -110,7 +110,7 @@ fields @timestamp, @message
 | sort @timestamp desc
 | limit 50
 
-# Retrieve log entries within a specific timestamp range (microseconds)
+# Retrieve log entries within a specific timestamp range (milliseconds)
 fields @timestamp, @message
 | filter @timestamp >= 1753787368000
 | filter @timestamp <= 1754387368000

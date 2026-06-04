@@ -29,10 +29,6 @@ On first access, the service redirects you to a setup page before showing the da
 3. Enter a secure **Username** and a strong **Password**.
 4. Confirm the password and complete the setup.
 
-{% hint style="info" %}
-The default login credentials are **Username: admin** / **Password: admin@123**. Change these immediately after first login.
-{% endhint %}
-
 This account has full administrative rights to add monitors, configure status pages, and manage system settings.
 
 ***
