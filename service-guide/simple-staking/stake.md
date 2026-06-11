@@ -6,6 +6,10 @@ description: >-
 
 # Stake
 
+{% hint style="info" %}
+This walkthrough describes the staking dApp interface. Since the official website is no longer hosted, follow these steps in the **community edition** (self-hosted or community-hosted), which shares the same interface. Prefer an interface-independent method? See [Stake via Etherscan](stake-via-etherscan.md).
+{% endhint %}
+
 ### **1. DAO candidate**
 
 To stake TON in the DAO candidate list, click on the expand button on the right for more details.

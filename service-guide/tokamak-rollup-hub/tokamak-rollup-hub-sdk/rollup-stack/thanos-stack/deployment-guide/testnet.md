@@ -88,7 +88,7 @@ trh-sdk deploy-contracts --network testnet --stack thanos
 # Get the L1 RPC URL, seed phrase, whether to use advanced configuration
 Please enter your L1 RPC URL: // Your L1 RPC URL e.g. https://sepolia.rpc.tokamak.network
 Please enter your admin seed phrase: // Your admin seed phrase that you prepared as a prerequisite.
-Would you like to perform advanced configurations? (Y/n): (Refer to the SDK Guide for more details: https://www.notion.so/tokamak/Testnet-Deployment-Guide-1e0d96a400a3806db1c3ec0cdbc4eeea#1f7d96a400a38031a747c8aec9a8f0b8) 
+Would you like to perform advanced configurations? (Y/n): // See the advanced configuration example below 
 
 # The input example advanced configurations
 L2 Block Time (default: 2 seconds): 4
@@ -229,7 +229,7 @@ If the stack and bridge components are deployed successfully, you will receive t
 
 The L2 endpoint can be checked by the `l2_rpc_url` field value in `settings.json`or by using the `trh-sdk info` command.
 
-4.  Double check if the chain is deployed and running properly following this [guide](https://www.notion.so/Double-check-the-status-of-the-L2-chain-1f2d96a400a38068a101e720d5f8be36?pvs=21).
+4.  Double check that the chain is deployed and running properly — verify the `trh-sdk info` output and that the L2 RPC endpoint (the `l2_rpc_url` field in `settings.json`) responds.
 
     > ℹ️ After you deploy the L2 testnet successfully, you can operate it by following this guide ([link](../operation-guide/testnet.md))
 5. With the stack and bridge configured, proceed to the Integrations section to add any desired components to your chain.

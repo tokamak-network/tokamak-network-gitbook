@@ -4,6 +4,10 @@ description: Introducing the process of withdrawing staked TON.
 
 # Withdraw
 
+{% hint style="info" %}
+This walkthrough describes the staking dApp interface. Since the official website is no longer hosted, follow these steps in the **community edition** (self-hosted or community-hosted), which shares the same interface. Prefer an interface-independent method? See [Unstake, restake & withdraw via Etherscan](unstake-restake-withdraw-via-etherscan.md).
+{% endhint %}
+
 There are two key points to note. First, withdrawing the staked amount requires two steps: unstaking and then withdrawing. Second, withdrawal is only possible after 93,046 blocks from unstaking (approximately 14 days).
 
 {% hint style="info" %}

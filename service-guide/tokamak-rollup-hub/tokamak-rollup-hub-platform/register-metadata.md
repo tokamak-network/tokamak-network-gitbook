@@ -6,7 +6,7 @@ Users can register metadata to share important details about their deployed chai
 
 **Prerequisites:**
 
-To register metadata, the user must have a GitHub PAT with permission to trigger actions. You can find [this guide](https://www.notion.so/Generate-Github-Personal-access-Token-PAT-24cd96a400a380678e6eea1bbbd1fa54?pvs=21) to create Github PAT for registering metadata.
+To register metadata, the user must have a GitHub PAT with permission to trigger actions. You can find [this guide](generate-github-pat.md) to create Github PAT for registering metadata.
 
 1. Metadata registration can be initiated through the Metadata tab as shown below.
 

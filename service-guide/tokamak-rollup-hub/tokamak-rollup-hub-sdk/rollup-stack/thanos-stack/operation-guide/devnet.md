@@ -148,7 +148,7 @@ docker port ${CONTAINER_NAME}
 
 ### 4. Testing Bridge Transactions Using Thanos SDK <a href="#testing-bridge-transactions" id="testing-bridge-transactions"></a>
 
-You can move assets between L1 and L2 via bridge transactions using the SDK provided by Thanos Stack. Please refer to the [guide](https://www.notion.so/Bridge-Test-Guide-1d1d96a400a38095b391c01bb2d9410b?pvs=21) link for the commands and execution methods.
+You can move assets between L1 and L2 via bridge transactions using the SDK provided by Thanos Stack. Please refer to the [guide](../bridge-test-guide.md) link for the commands and execution methods.
 
 **The assets that support bridges on the Thanos Stack:**
 

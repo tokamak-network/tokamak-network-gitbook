@@ -4,6 +4,10 @@ description: Earn rewards through staking.
 
 # Staking reward
 
+{% hint style="info" %}
+This walkthrough describes the staking dApp interface. Since the official website is no longer hosted, follow these steps in the **community edition** (self-hosted or community-hosted), which shares the same interface.
+{% endhint %}
+
 To receive unclaimed staking rewards, move them to "Your Staked" by following these steps:
 
 * "Unclaimed Staking Reward" area displays the staking rewards you haven't received yet&#x20;
