@@ -4,6 +4,10 @@ description: 스테이킹된 TON을 인출(withdraw) 하는 과정을 소개합�
 
 # Withdraw
 
+{% hint style="info" %}
+이 설명은 스테이킹 dApp 인터페이스를 기준으로 합니다. 공식 웹사이트는 더 이상 호스팅되지 않으므로, 동일한 인터페이스를 사용하는 **커뮤니티 에디션**(직접 호스팅 또는 커뮤니티 호스팅)에서 아래 단계를 진행하세요. 인터페이스에 의존하지 않는 방법을 원하시면 [이더스캔으로 언스테이킹·재스테이킹·인출하기](unstake-restake-withdraw-via-etherscan.md)를 참고하세요.
+{% endhint %}
+
 중요한 점은 첫째, 스테이킹 물량을 인출하기 위해서는 스테이킹 해제(unstake)와 인출(withdraw), 두 단계를 거쳐야 한다는 것이며, 둘째, 인출(withdraw) 은 스테이크 해제(unstake) 이후 93,046 블록이(\~14일) 지나야 가능하다는 점입니다.&#x20;
 
 {% hint style="info" %}
@@ -35,7 +39,7 @@ description: 스테이킹된 TON을 인출(withdraw) 하는 과정을 소개합�
 &#x20;스테이크 해제에 앞서 **받지 못한 스테이킹 보상**(Unclaimed Staking Reward)이 있는지 확인하세요&#x20;
 
 * 스테이크 해제를 완료한 이후에는 **받지 못한 스테이킹 보상**이 버닝 됩니다.&#x20;
-* **받지 못한 보상이** 있다면, Your Staked로 먼저 옮겨놓으세요 [link](/broken/pages/5vTrJ2LrMEP5j9I9hHyv)
+* **받지 못한 보상이** 있다면, Your Staked로 먼저 옮겨놓으세요 [link](staking-reward.md)
 {% endhint %}
 
 ### &#x20;2. 인출(Withdraw)

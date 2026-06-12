@@ -7,7 +7,7 @@ description: 제안된 안건에 대하여 DAO 위원회의 3인 멤버는 다�
 {% hint style="warning" %}
 투표는 DAO 위원회 멤버 3인만 참여할 수 있습니다.
 
-* 일반 유저들은 자신이 지지하는 멤버에게 [스테이킹](/broken/pages/W2slcwlYQfT0zdQ0NKtg#id-01.-delegated-staking)을 실시하여 간접적으로 참여하게 됩니다.&#x20;
+* 일반 유저들은 자신이 지지하는 멤버에게 [스테이킹](../simple-staking/README.md)을 실시하여 간접적으로 참여하게 됩니다.&#x20;
 {% endhint %}
 
 

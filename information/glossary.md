@@ -10,7 +10,7 @@ Tokamak Network의 네이티브 토큰으로서, Tokamak Network 상에서 작�
 
 ## WTON
 
-이더리움 네트워크 상에서 거래가능 하도록 만든 wrapped TON입니다.
+TON은 ERC20 토큰이지만, 보안상의 이유로 Uniswap 등 자동화 시장조성자(AMM)에서 다른 토큰과 직접 스왑할 수 없습니다. 이러한 AMM을 이용하려면 먼저 **TON을 WTON으로 랩(wrap)** 한 뒤 WTON을 스왑해야 합니다. 랩·언랩 방법은 [TON ↔ WTON](ton-wton.md) 가이드를 참고하세요.
 
 ## APY
 
