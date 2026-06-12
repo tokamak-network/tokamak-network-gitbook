@@ -82,5 +82,5 @@ description: >-
 {% hint style="info" %}
 재스테이킹 또는 인출 시에는 현재 대기 중인 요청만 확인하면 됩니다. `numRequests()`로 전체 건수를 확인한 뒤, `withdrawalRequest`를 가장 높은 인덱스부터 순서대로 내려가며 조회하세요(예: `numRequests`가 4를 반환하면 인덱스 3, 2, 1, … 순으로 확인).
 
-`withdrawableBlockNumber`가 현재 블록보다 낮고 `processed`가 `false`인 요청이 인출 가능한 상태입니다. 해당 요청이 1건이면 `processRequests`의 `n`을 `1`로, 2건이면 `2`로 설정하세요. 여러 건이 인출 가능한 경우, **가장 오래된** 요청부터 처리됩니다. 특정 인덱스를 지정하여 처리하는 것은 불가능합니다.
+`withdrawableBlockNumber`가 현재 블록 번호 이하이고 `processed`가 `false`인 요청이 인출 가능한 상태입니다. 해당 요청이 1건이면 `processRequests`의 `n`을 `1`로, 2건이면 `2`로 설정하세요. 여러 건이 인출 가능한 경우, **가장 오래된** 요청부터 처리됩니다. 특정 인덱스를 지정하여 처리하는 것은 불가능합니다.
 {% endhint %}
