@@ -9,7 +9,7 @@ description: 토카막 네트워크 생태계의 주요의사결정을 담당하
 
 * Github (contract): [https://github.com/tokamak-network/tokamak-dao-contracts](https://github.com/tokamak-network/tokamak-dao-contracts)
 * Community-version : [https://github.com/tokamak-network/dao-community-version](https://github.com/tokamak-network/dao-community-version)
-* Contract addresses: [link](https://docs.tokamak.network/home/service-guide/staking-and-dao/tokamak-network-dao/contract-addresses)&#x20;
+* Contract addresses: [link](https://docs.tokamak.network/home/service-guide/tokamak-network-dao/contract-addresses)&#x20;
 {% endhint %}
 
 DAO는 탈중앙화된 자율조직(Decentralized Autonomous Organization)을 의미합니다. 조직 구성원은 토카막 네트워크 생태계와 연관된 의사결정의 표결을 통해 의사결정에 참여하게 됩니다.

@@ -121,7 +121,7 @@
 
 > 1. 네트워크 이름: Thanos Sepolia
 > 2. 새로운 RPC URL: [https://rpc.thanos-sepolia.tokamak.network](https://rpc.thanos-sepolia.tokamak.network)
-> 3. 체인 ID: 111551119090
+> 3. 체인 ID: 111551132354
 > 4. 화폐 기호: TON
 > 5. 블록 탐색기 URL (선택): [https://explorer.thanos-sepolia.tokamak.network](https://explorer.thanos-sepolia.tokamak.network)
 

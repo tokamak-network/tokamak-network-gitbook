@@ -13,13 +13,13 @@ description: Tokamak Network와 관련된 유용한 사이트를 소개합니다
 📌Tokamak Global Telegram: [https://t.me/tokamak\_network](https://t.me/tokamak\_network)\
 📌Tokamak Global Discord: [https://discord.gg/SZw2WSR](https://discord.gg/SZw2WSR)
 
-## Tokamak Network [Twitter](https://twitter.com/tokamak\_network)
+## Tokamak Network [X (formerly Twitter)](https://x.com/tokamak\_network)
 
-토카막 네트워크의 공식 트위터 계정입니다.
+토카막 네트워크의 공식 X(구 트위터) 계정입니다.
 
-📌Tokamak Network Twitter: [https://twitter.com/tokamak\_network](https://twitter.com/tokamak\_network)
+📌Tokamak Network X: [https://x.com/tokamak\_network](https://x.com/tokamak\_network)
 
-## Tokamak Network [Medium](https://medium.com/onther-tech)
+## Tokamak Network [Medium](https://medium.com/tokamak-network)
 
 토카막 네트워크의 주요 소식을 전해 드리는 미디엄 공식페이지입니다.
 
