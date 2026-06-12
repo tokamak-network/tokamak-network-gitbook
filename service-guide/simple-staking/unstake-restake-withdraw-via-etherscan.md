@@ -83,5 +83,5 @@ Details of a specific withdrawal request.
 {% hint style="info" %}
 To restake or withdraw, you only need to look at the currently pending requests. Check the total with `numRequests()`, then inspect `withdrawalRequest` from the highest index downwards (e.g., if `numRequests` returns 4, check index 3, 2, 1, …).
 
-A request is eligible for withdrawal when its `withdrawableBlockNumber` is below the current block and `processed` is `false`. If one such request exists, set `n = 1` in `processRequests`; if two exist, set `n = 2`, and so on. When several are eligible, the **earliest** one is processed first — you cannot target a specific index.
+A request is eligible for withdrawal when its `withdrawableBlockNumber` is at or below the current block and `processed` is `false`. If one such request exists, set `n = 1` in `processRequests`; if two exist, set `n = 2`, and so on. When several are eligible, the **earliest** one is processed first — you cannot target a specific index.
 {% endhint %}
